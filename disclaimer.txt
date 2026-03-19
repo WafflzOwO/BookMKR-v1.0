@@ -1,0 +1,8 @@
+- ai usage disclaimer
+claude.ai was used to assist in coding this, since its a throwaway program I genuinely need in my daily life and not a project
+claude coded like the hard file shi cuz they don't go over that enough in school lmao
+uh I did the configuration of buttons and tkinter main structure and editor etc
+don't sue me
+don't firebomb my house
+thanks guys
+love, waflz

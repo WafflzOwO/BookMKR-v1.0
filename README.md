@@ -5,7 +5,7 @@ Can write books
 Read disclaimer
 
 Installation:
-1. install from releases: https://github.com/WafflzOwO/BookMKR-v1.0/Releases
+1. install from releases: https://github.com/WafflzOwO/BookMKR-v1.0/releases
 2. run .exe (if windows tells you off then just run anyway, check the source code if u feel like theres viruses lmao)
 3. have fun
 

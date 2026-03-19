@@ -25,6 +25,8 @@ i expect no one to use this so prob no v2
 
 ## roadmap
 
+add icon when i can be bothered
+
 bug fixes 
 
 maybe features adds v1.x

@@ -1,4 +1,4 @@
-#**BookMKR v1.0**
+# **BookMKR v1.0**
 
 a simple book maker app
 
@@ -6,12 +6,12 @@ read the disclaimer
 
 prob wont make a v2
 
-##installation:
+## installation:
 1. downlaod exe from releases: https://github.com/WafflzOwO/BookMKR-v1.0/releases
 2. run it (if windows flags it just run anyway)
 3. have fun
 
-##field notes:
+## field notes:
 
 read disclaimer
 
@@ -23,7 +23,7 @@ can make new themes at the top of script.py if you insist
 
 i expect no one to use this so prob no v2
 
-##roadmap
+## roadmap
 
 bug fixes 
 

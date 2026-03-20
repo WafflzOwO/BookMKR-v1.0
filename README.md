@@ -1,39 +1,25 @@
 # **BookMKR v1.0**
 
-a simple book maker app
+A simple book maker app
 
-read the disclaimer
-
-prob wont make a v2
+Read the disclaimer
 
 ## installation:
-1. downlaod exe from releases: https://github.com/WafflzOwO/BookMKR-v1.0/releases
-2. run it (if windows flags it just run anyway)
-3. have fun
+1. Download exe from releases: https://github.com/WafflzOwO/BookMKR-v1.0/releases
+2. Run it (if windows flags it just run anyway)
 
 ## field notes:
 
-read disclaimer
+Print pdf function makes two a5 in a45 for easy printing
 
-print pdf makes two a5 in a45 for easy printiing
+Written files can be saved as .book or .json
 
-can be saved as .book or .json
-
-can make new themes at the top of script.py if you insist
-
-i expect no one to use this so prob no v2
+Theme layouts at the top of script.py if you want a new theme
 
 ## roadmap
 
-add icon when i can be bothered
+<img width="364" height="251" alt="bookmkrposter" src="https://github.com/user-attachments/assets/629ac53e-ed34-4514-9c0c-d6c4bdf225f2" />
 
-bug fixes 
-
-maybe features adds v1.x
-
-prob no v2
-
-give up
 
 ## Me
 

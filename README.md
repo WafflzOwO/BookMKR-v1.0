@@ -34,3 +34,11 @@ maybe features adds v1.x
 prob no v2
 
 give up
+
+##Me
+
+Github: https://github.com/WafflzOwO
+
+Yt: https://www.youtube.com/@WafflzOwO
+
+Too young for a buy me a coffee so: https://www.amazon.co.uk/hz/wishlist/ls/1RNW1M6MRP8W9?ref_=wl_share

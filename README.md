@@ -18,7 +18,8 @@ Theme layouts at the top of script.py if you want a new theme
 
 ## roadmap
 
-<img width="364" height="251" alt="bookmkrposter" src="https://github.com/user-attachments/assets/629ac53e-ed34-4514-9c0c-d6c4bdf225f2" />
+<img width="364" height="251" alt="bookmkrposter" src="assets/629ac53e-ed34-4514-9c0c-d6c4bdf225f2" />
+
 
 
 ## Me

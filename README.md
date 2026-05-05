@@ -20,7 +20,7 @@ Theme layouts at the top of script.py if you want a new theme
 
 <img width="364" height="251" alt="bookmkrposter" src="assets/bookmkrposter.png" />
 
-
+no but /gen like im gonna add more themes, a title screen and general polish in v1.x and then a full rework for v2.x
 
 ## Me
 
@@ -28,4 +28,4 @@ Github: https://github.com/WafflzOwO
 
 Yt: https://www.youtube.com/@WafflzOwO
 
-Too young for a buy me a coffee so: https://www.amazon.co.uk/hz/wishlist/ls/1RNW1M6MRP8W9?ref_=wl_share
+buy me a coffee
